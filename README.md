@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics projects using Python, SQL, Power BI, and Machine Learning.<br>Data Analytics, Data Visualization, and Machine Learning projects<br>Advanced Machine Learning, MLOps, and real-world data engineering workflows.<br>Machine Learning, Statistics, Power BI, and Data Storytelling<br>Python, SQL, Data Analysis, Power BI, and Data Visualization<br>I enjoy turning raw datasets into meaningful insights and business stories.<br>
+I'm an aspiring Data Scientist passionate about turning data into meaningful insights. My skill set includes Python, Pandas, NumPy, Matplotlib, Scikit-learn, and SQL, which I use to analyze data, create visualizations, and build machine learning models.<br><br>Currently, I'm exploring machine learning algorithms and working on practical projects to strengthen my understanding of data science concepts. I enjoy learning new technologies, solving analytical problems, and applying data-driven approaches to real-world challenges.<br><br>Open to learning opportunities, collaborations, and discussions related to Data Science, Machine Learning, and Analytics. 🚀
 
 
 ## 🌐 Socials:
